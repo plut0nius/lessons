@@ -1,0 +1,58 @@
+@import url("reset.css");
+/* 
+* {
+    color: blueviolet;
+} */
+
+/* div {
+    color: tomato;
+}  */
+
+.head {
+    color: brown;
+}
+
+#geo {
+    color: blue;
+}
+
+[class*="nav"] {
+    color: darkblue;
+}
+
+p.geo-discript {
+    color: darkgreen;
+}
+
+.navigation-1,
+.navigation-2 {
+    color: aqua;
+}
+
+.tourism.cap {
+    color: darkolivegreen;
+}
+
+.history p {
+    color: coral;
+}
+
+.eco .eco-dicript {
+    color: gold;
+}
+
+.tourism * {
+    color: brown;
+}
+
+.eco>h2 {
+    color: blueviolet;
+}
+
+.geo-discript~p {
+    color: blueviolet;
+}
+
+.eco-dicript+p {
+    color: hotpink;
+}
