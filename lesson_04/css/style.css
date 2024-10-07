@@ -1,0 +1,185 @@
+/* Підключення через сайт Google Fonts:  */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;500&display=swap');
+
+/* Підключення за допомогою плагіну Google Fonts: */
+@import url("https://fonts.googleapis.com/css?family=DM+Sans:regular,700&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Oswald:200,300,regular,500,600,700&display=swap");
+
+@import url("reset.css");
+
+.webfont {
+    font-family: Oswald, sans-serif;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 700;
+    text-align: center;
+    text-transform: uppercase
+}
+
+.first-cap {
+    font-family: Oswald, sans-serif;
+    font-size: 18px;
+    font-style: oblique;
+    font-weight: 500;
+    text-align: left;
+    text-decoration: underline;
+    line-height: 1.5;
+}
+
+.first {
+    font-family: Oswald, sans-serif;
+    font-size: 16px;
+    font-style: italic;
+    font-weight: 400;
+    text-align: left;
+    text-decoration: none;
+    line-height: 1.2;
+    color: cornflowerblue;
+}
+
+.arial,
+.tnr,
+.cn {
+    color: rgba(3, 154, 68, 0.975);
+    text-decoration: underline;
+}
+
+.second-cap {
+    font-family: Oswald, sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    text-align: left;
+    text-decoration: underline;
+    line-height: 1.5;
+}
+
+.second {
+    font-family: Oswald, sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    text-align: left;
+    text-decoration: none;
+    line-height: 1.2;
+    letter-spacing: 1.2px;
+}
+
+.third-cap {
+    font-family: Oswald, sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    text-align: left;
+    text-decoration: underline;
+    line-height: 1.5;
+}
+
+.third {
+    font-family: Oswald, sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    text-align: left;
+    text-decoration: none;
+    line-height: 1.2;
+    text-shadow: 3px 5px 3px #000;
+}
+
+.fourth-cap {
+    font-family: Oswald, sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    text-align: left;
+    text-decoration: underline;
+    line-height: 1.5;
+}
+
+.fourth {
+    font-family: Oswald, sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    text-align: left;
+    text-decoration: none;
+    line-height: 1.2;
+    word-spacing: 20px;
+}
+
+.landing {
+    font-family: Roboto, sans-serif;
+}
+
+.landing-cap {
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 1.32;
+    letter-spacing: 1px;
+    color: #091133;
+}
+
+.landing-txt {
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.6667;
+    color: #505F98;
+}
+
+.business {
+    font-family: DM Sans;
+}
+
+.business-cap {
+    font-size: 88px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 1.08;
+    color: #1E1B39;
+}
+
+.business-txt {
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.75;
+    color: #474464;
+}
+
+.business-txt2 {
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.75;
+    color: #474464;
+}
+
+.personal {
+    font-family: Work Sans, sans-serif;
+}
+
+.personal-cap {
+    font-size: 38px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 1.32;
+    color: #132238;
+}
+
+.personal-txt {
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.33;
+    color: #556070;
+}
+
+.personal-txt2 {
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.33;
+    color: #556070;
+}
