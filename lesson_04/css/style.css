@@ -107,6 +107,13 @@
     word-spacing: 20px;
 }
 
+.block-cap {
+    font-family: Oswald, sans-serif;
+    font-style: italic;
+    font-size: 36px;
+    text-decoration: underline;
+}
+
 .landing {
     font-family: Roboto, sans-serif;
 }
