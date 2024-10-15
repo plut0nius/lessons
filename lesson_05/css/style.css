@@ -5,7 +5,7 @@
 
 .lsn {
     font-family: "Afacad Flux", sans-serif;
-    font-weight: Medium;
+    font-weight: 500;
     font-size: 25px;
     text-align: center;
 }
@@ -40,7 +40,7 @@
 .lsn-btn {
     font-family: "Roboto", sans-serif;
     font-size: 16px;
-    font-weight: Medium;
+    font-weight: 500;
     line-height: 1.63;
     margin-block-end: 40px;
 }
