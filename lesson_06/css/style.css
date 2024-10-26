@@ -7,7 +7,6 @@
 }
 
 .wrapper {
-    min-height: 100%;
     overflow: hidden;
     margin: 0 auto;
 }
@@ -35,12 +34,11 @@
 
 .container-1 {
     margin: 0 auto;
-    width: 1170px;
     padding-inline: 15px;
     font-family: "Epilogue", sans-serif;
     color: bisque;
     font-size: 0;
-    width: 100%;
+    max-width: 1400px;
 }
 
 .work-main {
@@ -296,22 +294,26 @@
     background-size: 50%;
 }
 
-.container-2 {
-    margin: 0 auto;
+.portfolio-block {
+    padding-block: 50px;
     font-family: "Epilogue", sans-serif;
     background: #fdf0e9;
     padding-inline: 15px;
-    display: block;
-    width: 1440px;
+
+}
+
+.container-2 {
+    margin-inline: auto;
+    max-inline-size: 1200px;
 }
 
 .portfoliosite {
-    margin: 135px 0 0 135px;
     display: inline-block;
-    vertical-align: top;
+    margin-right: 170px;
 }
 
 .abovetxt1 {
+    max-width: 95px;
     color: #EF6D58;
     font-weight: 400;
     line-height: 2;
@@ -356,17 +358,16 @@
 }
 
 .portfolioimg {
+    vertical-align: top;
+    max-inline-size: 529px;
     display: inline-block;
-    margin-top: 50px;
-    margin-left: 170px;
-    padding: 30px;
 }
+
 
 .container-3 {
     background: #141414;
-    margin: 0 auto;
     font-family: "Manrope", sans-serif;
-    max-width: 1920px;
+    padding: 20px;
 }
 
 .darkbg {
@@ -411,10 +412,11 @@
     font-size: 18px;
     font-weight: 600;
     line-height: 1.5;
-    margin-bottom: 50px;
 }
 
 .icondark {
+    max-width: 28px;
+    max-height: 28px;
     margin-right: 4px;
 }
 
